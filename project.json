@@ -1,0 +1,41 @@
+{
+  "id": 38,
+  "category": "game-offline",
+  "slug": "football-manager26-tactics-notebook",
+  "target": "Football Manager 26",
+  "appid": "3551340",
+  "summaryRu": "Журнал локальных тактических экспериментов на копии сохраненной карьеры.",
+  "features": [
+    "Tactic comparison sheets",
+    "Training load scenarios",
+    "Career snapshot index"
+  ],
+  "title": "TouchlineTrials — Football Manager 26 — Formation",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "steam-chart-presence",
+      "sourceId": "steam-chart-page",
+      "detail": "Present in the retrieved Steam most-played page; no universal popularity rank is inferred."
+    }
+  ],
+  "brand": "TouchlineTrials",
+  "repositoryName": "touchlinetrials-football-manager26-tactics-notebook-formation",
+  "githubTopics": [
+    "football-manager-26",
+    "tactics-planning",
+    "training-load",
+    "career-backup",
+    "game-planning",
+    "local-scenarios",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "formation"
+}
